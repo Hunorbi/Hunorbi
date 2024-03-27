@@ -1,3 +1,6 @@
+- 🔭 I’m currently working on getting Azure-104 certified
+- 🌱 I’m currently learning Ansible
+- 
 ### Hi there 👋
 
 <!--
