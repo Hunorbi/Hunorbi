@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on getting Azure-305 certified
-- 🌱 I’m currently learning IaC such as Bicep, Terraform and Ansible
+- 🌱 I’m currently learning IaC tools such as Bicep, Terraform and Ansible
 <!--
 **Hunorbi/Hunorbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
